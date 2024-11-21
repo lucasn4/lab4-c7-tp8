@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from colorama import Fore, Style
 
 ## ATENCION: Debe colocar la direccion en la que ha sido publicada la aplicacion en la siguiente linea\
 # url = 'https://lucasn4-lab4-c7-tp8-ejercicio-rribb1.streamlit.app/'
