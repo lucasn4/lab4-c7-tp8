@@ -4,4 +4,3 @@ pandas
 numpy
 colorama
 seaborn
-io
