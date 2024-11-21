@@ -3,11 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from colorama import Fore, Style
-import seaborn as sns
-import io
 
 ## ATENCION: Debe colocar la direccion en la que ha sido publicada la aplicacion en la siguiente linea\
-# url = 'https://tp8-555555.streamlit.app/'
+# url = 'https://lucasn4-lab4-c7-tp8-ejercicio-rribb1.streamlit.app/'
 
 def formato_color(valor):
     if valor > 0:
